@@ -1,14 +1,14 @@
 <h1 align="center">
   💻<br>Portfolio - António Silva
-</h1>
+  <br>www.zlaxx24.github.io
+</h1> 
 
 ## 📚 Sections
 
-- **Home:** 
+- **Home** 
 - **About me** 
 - **Projects** 
-- **Contact** 
-
+- **Contact (EmailJS)** 
 ---
 
 ## 💼 Tech Tools
