@@ -1,6 +1,6 @@
 <h1 align="center">
   💻<br>Portfolio - António Silva
-  <br>https://zlaxx24.github.io/
+  <br>
 </h1> 
 
 ## 📚 Sections
