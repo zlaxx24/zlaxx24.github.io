@@ -9,7 +9,6 @@
 - **About me** 
 - **Projects** 
 - **Contact (EmailJS)** 
----
 
 ## 💼 Tech Tools
 
